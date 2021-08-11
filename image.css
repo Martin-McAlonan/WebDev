@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+   
+}
+
+html {
+    height: 100%;
+    text-align: center;
+    font-size: 1.2em;
+    font-family: 'Arial Narrow';
+    color: black;
+    background-color: palegreen;
+}
+
+body {
+    height: 100%;
+    border: 5px dashed red;
+}
+
+
+
+section {
+    width: 100vw;
+    height: 100vh;
+    padding: 10%;
+    text-align: center;
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+figcaption {
+    font-size: x-large;
+    
+}
+
+
+article{
+    background-color: lightsteelblue;
+    background-blend-mode: lighten;
+}
+
+header, footer {
+    background-color: wheat;
+    text-align: left;
+    font-size: 1.2em;
+    font-family: 'Arial Narrow';
+    font-size: x-large;
+    font-weight: bolder;
+    width: 100%;
+    height: 50px;
+
+}
+
+h1 {
+    text-align: center;
+}
