@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="50">
+        <title>ImagePractice</title>
+        <link rel="stylesheet" href="image.css" type="text/css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome.min.css">
+    </head>
+    <body>       
+       
+        <header>Welcome to Chrildrens Charity Webpage</header>
+        <section id="Home"></section>
+            <img src="kids-fun-run.png" height="110%" alt="Full Page">
+
+        <main>
+             
+            <h2>Charity</h2>
+            
+           <p>  
+             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aperiam ipsum, 
+             tempore incidunt culpa quia, 
+             quae fugit magni aut quos, officiis repellat? Labore nesciunt vel, nobis iure 
+             ratione incidunt dolorem velit    
+            </p>
+        
+        <article>
+            <h2>Article Name</h2>
+        <section id="Events"></section>
+            <img src="just4Kids.png" height="150" alt="Full Page">
+
+             </section>
+            <section id="Donate"></section>
+            <img src="funrun.jpeg" height="300" alt="Full Page">
+
+        </section>
+            
+            <section>
+                <img src="support.png" alt="Full Page">
+
+            </section>
+        </article>    
+
+
+        <article>
+            <section>
+                <figure>
+                    <img src="tickets.png" style="width: 20%" alt="Sponcer tickets">
+                    <img src="oliver.jpeg" style="width: 20%" alt="Sponcer tickets">
+                    <figcaption>New Childrens Charity Theater Play Fund Raiser</figcaption>
+                </figure>
+
+            </section>
+        </article>
+        
+            <section>
+                <article>
+                    <img src="charity.jpeg" style="width:25%" alt="Full Page">
+                </article>
+            </section>
+        <aside>
+            <h2>Charity News</h2>
+            <p>Info on the sidebar</p>
+            <ol>
+                <li>1.  lastest Developments</li>
+                <li>2.  Planed Activities</li>
+                <li>3.  Sponcered Events</li>
+                <li>4.  Team Meeting</li>
+            </ol>
+           
+
+          
+        </aside>
+        
+        </main>
+        <footer id="Contact"> 
+            
+            <article id="Contact">
+                <img src="logo.png" alt="Full Page">
+                <p>&copy;  Childrens charity logo 2021 </p>
+                <h1>Copyright 2021, all rights reserved & Image Sources</h1>
+            </article>
+           
+            
+        </footer>
+    </body>
+
+</html>
